@@ -27,6 +27,8 @@ This dashboard provides a quick and clear overview of total sales, average sales
 - Business Insight Analysis  
 - Excel Formatting & Automation  
 
+The Data was /is found in KAGGLE Website. 
+
 ## 🚀 Learning Outcome
 Through this project, I strengthened my analytical thinking and Excel-based visualization skills. It was a great experience to see how Excel can be used beyond spreadsheets — as a tool for **data storytelling** and **business intelligence**.
 
