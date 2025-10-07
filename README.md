@@ -1,5 +1,13 @@
 # 🛒 Blinkit Grocery Sales Analysis Dashboard
 
+
+## 🚀 The Preview of Dashboard
+1)The Dashboard
+https://github.com/your-username/Blinkit-Sales-Analysis/blob/main/assets/images/dashboard.png
+
+2) The Dataset Preview
+https://github.com/your-username/Blinkit-Sales-Analysis/blob/main/assets/images/dashboard.png   
+
 ## 📘 Project Overview
 This project focuses on analyzing Blinkit’s grocery sales data using **Microsoft Excel** to uncover valuable business insights.  
 The goal was to clean, organize, and visualize the dataset through **Pivot Tables** and **interactive dashboards** that highlight sales performance and trends across outlets, categories, and locations.
