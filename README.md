@@ -20,13 +20,13 @@
 
 ### 1) The Dashboard
 <p align="center">
-  <img src="https://github.com/ranjith-nayak/Blinkit-Grocery-Sales-Analysis/blob/main/assets/images/dashboard.png?raw=true" alt="Dashboard Screenshot" width="600">
+  <img src="assests/img/Dashboard.png?raw=true" alt="Dashboard Screenshot" width="600">
 </p>
 
 
 ### 2) The Dataset Preview
 <p align="center">
-  <img src="https://github.com/ranjith-nayak/Blinkit-Grocery-Sales-Analysis/blob/main/assets/images/dataset.png?raw=true" alt="Dataset Screenshot" width="600">
+  <img src="assests/img/dataset.png?raw=true" alt="Dataset Screenshot" width="600">
 </p>
 
 ---
